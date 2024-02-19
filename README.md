@@ -49,4 +49,11 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 #### Realisation and ADR by platform
 
-[Realisation Logo](https://app.powerbi.com/groups/5e5db475-decf-4b51-a6df-5b26a561ed26/reports/2047d113-42a1-4b1d-9b17-3224456b2dd2/ReportSection9a44ca3a1eb443a18969?ctid=95bcda7d-83f2-4941-9e67-30bb1c297a1d&pbi_source=shareVisual&visual=230bb1db0dcbbb19f04f&height=241.33&width=634.67&bookmarkGuid=b4d70612-bcbc-4845-8d8c-366c52e1aebb)
+![Realisation Logo](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/PBIDesktop_XUNxAkxOVA.png)
+
+- The realization rates across these platforms are quite consistent, showing that they convert bookings into revenue at similar rates, around 70%. However, the Average Daily Rates (ADR) vary slightly, with Direct Offline and Others having the highest ADR at $12,794.
+- Focusing on improving conversion rates might be beneficial for platforms like Tripster and Others, while high ADR platforms should aim for competitive pricing alongside achieving better conversion rates.
+
+#### % Revenue by Category
+
+
