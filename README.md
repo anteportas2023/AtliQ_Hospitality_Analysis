@@ -49,4 +49,4 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 #### Realisation and ADR by platform
 
-![Realisation Logo](
+[Realisation Logo](https://app.powerbi.com/groups/5e5db475-decf-4b51-a6df-5b26a561ed26/reports/2047d113-42a1-4b1d-9b17-3224456b2dd2/ReportSection9a44ca3a1eb443a18969?ctid=95bcda7d-83f2-4941-9e67-30bb1c297a1d&pbi_source=shareVisual&visual=230bb1db0dcbbb19f04f&height=241.33&width=634.67&bookmarkGuid=b4d70612-bcbc-4845-8d8c-366c52e1aebb)
