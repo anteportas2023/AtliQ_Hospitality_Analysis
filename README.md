@@ -56,4 +56,4 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 #### % Revenue by Category
 
-
+![Revenue by Category](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/PBIDesktop_d8Flau6w8b.png)
