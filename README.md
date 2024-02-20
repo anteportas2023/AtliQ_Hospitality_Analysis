@@ -45,6 +45,14 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 - I learned about telling data-driven stories with this beautiful dashboard.
 - Understanding the business requirements based on the data.
 
+### Data Model
+
+![Data Model](
+
+### Overall Preview
+
+![Overall Preview](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/Overall%20Preview.png)
+
 ### Insights
 
 #### Realisation and ADR by platform
