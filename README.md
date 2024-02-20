@@ -56,4 +56,11 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 #### % Revenue by Category
 
-![Revenue by Category](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/PBIDesktop_d8Flau6w8b.png)
+![Revenue by Category](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/%25%20Revenue%20by%20Category.png)
+
+- The luxury category generates 61.62% of the total revenue, while the business category contributes 38.38%. This suggests a higher customer preference for luxury experiences, showing a stronger demand for upscale amenities.
+- Despite contributing a substantial share, the business category indicates a slightly lower preference compared to luxury offerings in the hospitality
+
+### Trend by Key Metrics(RevPar, ADR, Occupancy%)
+
+![Trend by Key Metrics](
