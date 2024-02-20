@@ -63,4 +63,13 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 ### Trend by Key Metrics(RevPar, ADR, Occupancy%)
 
-![Trend by Key Metrics](
+![Trend by Key Metrics](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/Trend%20by%20Key%20Metrics.png)
+
+- **RevPAR Trend**: Fluctuates across weeks, peaking at W19, W20, W24, W27, W28, W29 indicating higher revenue per available room.
+- **ADR Stability**: ADR remains steady around 12,700 with minor fluctuations.
+- **Occupancy Pattern**: Shows recurring peaks and valleys, correlating with RevPAR peaks, suggesting a link between higher room occupancy and increased revenue.
+- **Overall**: Stable ADR, periodic peaks in RevPAR and occupancy rates, hinting at a connection between higher rates, occupancy, and revenue per room.
+
+### Properties by Key Metrics
+
+
