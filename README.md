@@ -72,4 +72,11 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 ### Properties by Key Metrics
 
+![Property by Key Metrics](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/Property%20by%20Key%20Metrics.png)
 
+- Mumbai leads in revenue at $661M, followed by Bangalore ($415M), Hyderabad ($321M), and Delhi ($291M).
+- AtliQ Exotica outperforms with $316M revenue, 3.62 rating, 57% occupancy, 24.4% cancellation, and 23,162 bookings.
+- Atliq Grands in Delhi has lower revenue but a high rating. Atliq Palace in Hyderabad generates comparatively less revenue.
+- AtliQ Exotica is a revenue powerhouse, but attention to its cancellation rate might enhance its profitability.
+- Atliq Grands in Delhi excels in guest satisfaction despite lower revenue, and exploring ways to improve revenue at Atliq Palace in Hyderabad could be advantageous for its performance.
+- Overall, a focus on maximizing revenue while maintaining guest satisfaction stands as a key consideration across these properties.
