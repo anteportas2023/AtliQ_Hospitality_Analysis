@@ -47,7 +47,7 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVlN2EyN
 
 ### Data Model
 
-![Data Model](
+![Data Model](https://github.com/anteportas2023/AtliQ_Hospitality_Analysis/blob/main/Resources/Data%20Model.png)
 
 ### Overall Preview
 
